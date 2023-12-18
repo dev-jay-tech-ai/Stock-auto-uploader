@@ -1,0 +1,15 @@
+# dependencies
+dist
+/dist
+node_modules
+/node_moduless
+
+csv/**
+images/**
+legacy/**
+cafe_londonlabel/**
+crawler/data.csv
+
+.DS_Store
+.env
+data.json
